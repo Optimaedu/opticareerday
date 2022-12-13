@@ -4,7 +4,12 @@ module.exports = {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        body: 'Roboto, sans-serif',
+        heading: '"Roboto Slab", sans-serif'
+      }
+    },
   },
   plugins: [],
 }
