@@ -1,8 +1,10 @@
 
+import Topbar from "../components/Topbar";
+
 const IndexPage = () => {
   return (
-    <div>
-      Hello World!
+    <div className="w-full h-screen">
+      <Topbar />
     </div>
   );
 }
