@@ -1,9 +1,12 @@
+
 import Topbar from "../components/Topbar";
 
-export default function Home() {
+const IndexPage = () => {
   return (
     <div className="w-full h-screen">
       <Topbar />
     </div>
-  )
+  );
 }
+
+export default IndexPage;
