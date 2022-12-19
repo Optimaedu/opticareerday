@@ -7,8 +7,8 @@ import YoutubeIcon from './ui/icons/YoutubeIcon';
 
 const Footer = () => {
   return (
-    <div className="w-full absolute bottom-0 overflow-hidden flex flex-col before:bg-footerBg before:min-w-1600 before:min-h-200">
-      <div className="w-full pb-8 bg-optimaGray text-white pl-10 sm:pl-20 md:pl-40 font-logo text-base">
+    <div className="w-full absolute bottom-0 overflow-hidden flex flex-col before:bg-[url(../../public/footer-optima.svg)] before:min-w-[1600px] before:min-h-[200px]">
+      <div className="w-full pb-8 bg-optima-gray text-white pl-10 sm:pl-20 md:pl-40 font-logo text-base">
         <p className="text-3xl mb-2">Optima</p>
         <p className="">Trädgårdsgatan 30</p>
         <p className="mb-4">68600 Jakobstad</p>
