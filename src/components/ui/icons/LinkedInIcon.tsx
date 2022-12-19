@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const LinkedInIcon = () => {
   return (
@@ -6,4 +6,4 @@ const LinkedInIcon = () => {
   )
 }
 
-export default LinkedInIcon
+export default LinkedInIcon;

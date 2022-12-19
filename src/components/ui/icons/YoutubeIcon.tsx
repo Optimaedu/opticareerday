@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const YoutubeIcon = () => {
   return (
@@ -6,4 +6,4 @@ const YoutubeIcon = () => {
   )
 }
 
-export default YoutubeIcon
+export default YoutubeIcon;

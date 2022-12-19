@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const FacebookIcon = () => {
   return (
@@ -6,4 +6,4 @@ const FacebookIcon = () => {
   )
 }
 
-export default FacebookIcon
+export default FacebookIcon;

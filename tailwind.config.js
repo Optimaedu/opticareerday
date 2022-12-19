@@ -16,6 +16,12 @@ module.exports = {
       minWidth: {
         1600: "1600px"
       },
+      minHeight: {
+        200: "200px"
+      },
+      backgroundImage: {
+        footerBg: "url(../../public/footer-optima.svg)"
+      }
     },
   },
   plugins: [],
