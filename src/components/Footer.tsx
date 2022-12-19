@@ -1,5 +1,4 @@
 import Link from 'next/link';
-import React from 'react';
 import FacebookIcon from './ui/icons/FacebookIcon';
 import InstagramIcon from './ui/icons/InstagramIcon';
 import LinkedInIcon from './ui/icons/LinkedInIcon';
