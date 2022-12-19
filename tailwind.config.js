@@ -19,6 +19,9 @@ module.exports = {
       minWidth: {
         1600: "1600px"
       },
+      height: {
+        620: "620px"
+      }
     },
   },
   plugins: [],
