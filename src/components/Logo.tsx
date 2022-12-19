@@ -1,9 +1,7 @@
-import React from 'react'
-
 const Logo = () => {
   return (
-    <span className="md:text-4xl text-3xl font-bold block">OptiCareer Day</span>
-  )
+    <span className="block text-4xl font-logo font-bold select-none">OptiCareer Day</span>
+  );
 }
 
-export default Logo
+export default Logo;

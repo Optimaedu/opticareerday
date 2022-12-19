@@ -7,7 +7,8 @@ module.exports = {
     extend: {
       fontFamily: {
         body: 'Roboto, sans-serif',
-        heading: '"Roboto Slab", sans-serif'
+        heading: '"Roboto Slab", sans-serif',
+        logo: '"Roboto Condensed", sans-serif'
       }
     },
   },
