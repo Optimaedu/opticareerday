@@ -9,6 +9,9 @@ module.exports = {
         body: 'Roboto, sans-serif',
         heading: '"Roboto Slab", sans-serif',
         logo: '"Roboto Condensed", sans-serif'
+      },
+      backgroundColor: {
+        "optima-gray": "#3d3d3d"
       }
     },
   },

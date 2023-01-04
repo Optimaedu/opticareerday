@@ -1,6 +1,5 @@
-import Link from 'next/link'
-import React from 'react'
-import Logo from './Logo'
+import Link from 'next/link';
+import Logo from './Logo';
 
 const Topbar = () => {
   return (
@@ -17,4 +16,4 @@ const Topbar = () => {
   )
 }
 
-export default Topbar
+export default Topbar;
